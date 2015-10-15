@@ -1,4 +1,4 @@
-# 使用1. Vagrant進入Ubuntu
+# 使用Vagrant進入Ubuntu
 1. cd rails10-va
 2. vagrant up
 3. vagrant ssh
@@ -27,3 +27,4 @@
 3. vagrant box remove 刪除
 [ihover的教學](http://www.slideshare.net/ihower/vagrant-osdc)
 
+test
