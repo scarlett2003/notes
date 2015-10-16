@@ -25,3 +25,9 @@
   [push]<br />
     default = current<br />
 </p>
+
+###進入隱藏檔
+```
+.ssh
+cd id_rsa.pub
+```
